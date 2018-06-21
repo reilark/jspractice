@@ -1,1 +1,1 @@
-alert('it works');
+function alert('it works');
