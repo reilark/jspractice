@@ -1,1 +1,1 @@
-alert('it works\n this is annoying');
+alert('it works\nthis is annoying\nremember cntl + reload');
