@@ -1,1 +1,1 @@
-alert('it works\nthis is annoying');
+alert('it works\n this is annoying');
