@@ -1,1 +1,1 @@
-alert('it works\nthis is annoying\nremember cntl + reload');
+alert("Steady pace wins the race.")
