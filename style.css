@@ -4,6 +4,12 @@ header {
 }
 
 body {
+    display: grid;
+
+    grid-template-areas:
+        '. . header . .'
+        '. aboutme .'
+        '. etc .';
     background-color: bisque;
 }
 
@@ -11,4 +17,13 @@ article {
     background-color: rgb(255, 244, 230);
     text-align: center;
     color: rgb(43, 23, 6);
+    padding: 1em 0 1em 0;
+    margin: .5em;
 }
+
+/*#aboutme {
+    float: left;
+    width: 25em;
+    height: 26;
+    margin: .5em;
+}*/
