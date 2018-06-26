@@ -1,7 +1,14 @@
 header {
     text-align: center;
+    color: rgb(43, 23, 6);
+}
+
+body {
+    background-color: bisque;
 }
 
 article {
+    background-color: rgb(255, 244, 230);
     text-align: center;
+    color: rgb(43, 23, 6);
 }
