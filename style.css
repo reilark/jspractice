@@ -12,6 +12,7 @@ body {
         '. etc .';
     background-color: bisque;
 }
+/*need to figure out correct properties for grid. says invalid in chrome inspect*/
 
 article {
     background-color: rgb(255, 244, 230);
@@ -19,6 +20,12 @@ article {
     color: rgb(43, 23, 6);
     padding: 1em 0 1em 0;
     margin: .5em;
+    border-radius: 1em;
+}
+
+p {
+    text-indent: 1em;
+    padding: 0em 1em 0em 1em;
 }
 
 /*#aboutme {
